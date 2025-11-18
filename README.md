@@ -1,7 +1,10 @@
-
+<!-- 
+Designed by the AI for Ashwath M H.
+This is the definitive, mobile-first version. It's designed to look exceptional on ALL devices, from mobile phones to desktops, with no layout issues.
+-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a148c,100:00acc1&height=150&section=header&text=Ashwath%20M%20H&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a148c,100:00acc1&height=120&section=header&text=Ashwath%20M%20H&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner"/>
 </div>
 
 <div align="center">
@@ -46,88 +49,75 @@
 
 ### <p align="center">🏆 My Work Showcase</p>
 
-<table align="center">
-  <!-- Project 1: TalentPlace.ai -->
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">TalentPlace.ai - AI Resume Builder</h3>
-      <div align="center">
-        <!-- ❗ ACTION REQUIRED: Replace this with your GIF! -->
-        <a href="https://www.talentplace.ai/">
-          <img src="https://github.com/ashwathmh/ashwathmh/blob/main/assets/talentplace.gif?raw=true" alt="TalentPlace.ai Demo" width="400">
-        </a>
-        <p>An intelligent platform to craft perfect resumes with AI assistance. Built for a seamless and intuitive user experience.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-          <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-        </p>
-        <a href="https://www.talentplace.ai/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-00ACC1?style=for-the-badge&logo=Vercel&logoColor=white">
-        </a>
-      </div>
-    </td>
-    <!-- Project 2: Virajetech -->
-    <td valign="top" width="50%">
-      <h3 align="center">Virajetech Corporate Website</h3>
-      <div align="center">
-        <!-- ❗ ACTION REQUIRED: Replace this with your GIF! -->
-        <a href="https://vtupdatedversion2.netlify.app/">
-          <img src="https://github.com/ashwathmh/ashwathmh/blob/main/assets/virajetech.gif?raw=true" alt="Virajetech Demo" width="400">
-        </a>
-        <p>A sleek, modern, and fully responsive corporate website showcasing services and portfolio with a professional design.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-        </p>
-        <a href="https://vtupdatedversion2.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-38B2AC?style=for-the-badge&logo=Netlify&logoColor=white">
-        </a>
-      </div>
-    </td>
-  </tr>
-  <!-- Project 3: E-Commerce -->
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">E-Commerce Platform</h3>
-      <div align="center">
-        <!-- ❗ ACTION REQUIRED: Replace this with your GIF! -->
-        <a href="https://eonlinesite.netlify.app/">
-          <img src="https://github.com/ashwathmh/ashwathmh/blob/main/assets/ecommerce.gif?raw=true" alt="E-Commerce Demo" width="400">
-        </a>
-        <p>A feature-rich e-commerce application with a clean UI, product catalog, and a fully functional shopping cart experience.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/Context_API-45b8d8?style=for-the-badge&logo=react&logoColor=white" alt="Context API"/>
-          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-        </p>
-        <a href="https://eonlinesite.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-8A2BE2?style=for-the-badge&logo=Netlify&logoColor=white">
-        </a>
-      </div>
-    </td>
-    <!-- Project 4: Portfolio -->
-    <td valign="top" width="50%">
-      <h3 align="center">3D Personal Portfolio</h3>
-      <div align="center">
-        <!-- ❗ ACTION REQUIRED: Replace this with your GIF! -->
-        <a href="https://ashupersonal.netlify.app/">
-          <img src="https://github.com/ashwathmh/ashwathmh/blob/main/assets/portfolio.gif?raw=true" alt="Portfolio Demo" width="400">
-        </a>
-        <p>An interactive personal portfolio leveraging 3D models and animations to create an engaging showcase of my skills and projects.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
-          <img src="https://img.shields.io/badge/Framer_Motion-F200B2?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-        </p>
-        <a href="https://ashupersonal.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-FFC0CB?style=for-the-badge&logo=Netlify&logoColor=black">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- Project 1: TalentPlace.ai -->
+<div align="center">
+  <h3>TalentPlace.ai - AI Resume Builder</h3>
+  <!-- ❗ ACTION REQUIRED: Replace this with your GIF! -->
+  <a href="https://www.talentplace.ai/"><img src="https://github.com/ashwathmh/ashwathmh/blob/main/assets/talentplace.gif?raw=true" alt="TalentPlace.ai Demo" width="550"></a>
+  <p>An intelligent platform to craft perfect resumes with AI assistance. Built for a seamless and intuitive user experience.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  </p>
+  <a href="https://www.talentplace.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-00ACC1?style=for-the-badge&logo=Vercel&logoColor=white">
+  </a>
+</div>
+
+---
+
+<!-- Project 2: Virajetech -->
+<div align="center">
+  <h3>Virajetech Corporate Website</h3>
+  <!-- ❗ ACTION REQUIRED: Replace this with your GIF! -->
+  <a href="https://vtupdatedversion2.netlify.app/"><img src="https://github.com/ashwathmh/ashwathmh/blob/main/assets/virajetech.gif?raw=true" alt="Virajetech Demo" width="550"></a>
+  <p>A sleek, modern, and fully responsive corporate website showcasing services and portfolio with a professional design.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </p>
+  <a href="https://vtupdatedversion2.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-38B2AC?style=for-the-badge&logo=Netlify&logoColor=white">
+  </a>
+</div>
+
+---
+
+<!-- Project 3: E-Commerce -->
+<div align="center">
+  <h3>E-Commerce Platform</h3>
+  <!-- ❗ ACTION REQUIRED: Replace this with your GIF! -->
+  <a href="https://eonlinesite.netlify.app/"><img src="https://github.com/ashwathmh/ashwathmh/blob/main/assets/ecommerce.gif?raw=true" alt="E-Commerce Demo" width="550"></a>
+  <p>A feature-rich e-commerce application with a clean UI, product catalog, and a fully functional shopping cart experience.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Context_API-45b8d8?style=for-the-badge&logo=react&logoColor=white" alt="Context API"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  </p>
+  <a href="https://eonlinesite.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-8A2BE2?style=for-the-badge&logo=Netlify&logoColor=white">
+  </a>
+</div>
+
+---
+
+<!-- Project 4: Portfolio -->
+<div align="center">
+  <h3>3D Personal Portfolio</h3>
+  <!-- ❗ ACTION REQUIRED: Replace this with your GIF! -->
+  <a href="https://ashupersonal.netlify.app/"><img src="https://github.com/ashwathmh/ashwathmh/blob/main/assets/portfolio.gif?raw=true" alt="Portfolio Demo" width="550"></a>
+  <p>An interactive personal portfolio leveraging 3D models and animations to create an engaging showcase of my skills and projects.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+    <img src="https://img.shields.io/badge/Framer_Motion-F200B2?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  </p>
+  <a href="https://ashupersonal.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-FFC0CB?style=for-the-badge&logo=Netlify&logoColor=black">
+  </a>
+</div>
 
 ---
 
