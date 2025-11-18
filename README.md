@@ -1,11 +1,7 @@
-<!-- 
-Designed by the AI for Ashwath M H.
-This is a high-impact, professional design meant to impress.
-Remember to replace the placeholder GIFs with your actual project demos!
--->
+
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a148c,100:00acc1&height=300&section=header&text=Ashwath%20M%20H&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a148c,100:00acc1&height=150&section=header&text=Ashwath%20M%20H&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner"/>
 </div>
 
 <div align="center">
